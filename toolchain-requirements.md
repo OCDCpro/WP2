@@ -46,4 +46,6 @@ Security-by-Design ist zu dem skizzierten Workflow orthogonal, da die verwendete
 
 ## Zusammenfassung 
 
-Siehe Folie.
+Hier die Phasen des Systementwurfs, die für die Übergänge verwendeten Sprachen und die innerhalb der Phasen verwendeten Werkzeuge.
+
+![Überblick über die Toolchain](toolchain-overview.svg)
